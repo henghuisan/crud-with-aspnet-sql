@@ -26,7 +26,7 @@
     ```
 
 ### 3. Create Controller
-- Right click <b>Controller</b> folder -> Select <b>Add</b>, then <b>Controller</b> -> Select <b>API</b> from Comman directory -> Select <b>API Controller - Empty</b> -> Enter file name
+- Right click "Controller" folder -> Select "Add", then "Controller" -> Select "API" from Comman directory -> Select "API Controller - Empty" -> Enter file name
 - Create constructor (shortkey: ctor)
   ```
   public NameController(IConfiguration configuration)
